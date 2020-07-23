@@ -1,0 +1,12 @@
+{
+  "name": "currency-converter-app",
+  "displayName": "currency-converter-app",
+  "expo": {
+    "name": "currency-converter-app",
+    "slug": "currency-converter-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
